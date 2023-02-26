@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\bin\Debug\net6.0\LibraryProgramOOP.exe
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\bin\Debug\net6.0\LibraryProgramOOP.deps.json
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\bin\Debug\net6.0\LibraryProgramOOP.runtimeconfig.json
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\bin\Debug\net6.0\LibraryProgramOOP.dll
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\bin\Debug\net6.0\LibraryProgramOOP.pdb
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.dll
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\refint\LibraryProgramOOP.dll
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.pdb
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\LibraryProgramOOP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LibraryProgramOOP\LibraryProgramOOP\obj\Debug\net6.0\ref\LibraryProgramOOP.dll
